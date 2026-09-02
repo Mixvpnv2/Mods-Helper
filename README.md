@@ -1,6 +1,6 @@
 # Helper Mods
 
 ↓↓↓↓↓↓↓↓
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/78ZuWSq)](https://discord.gg/78ZuWSq)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/fqPF4qyjCQ)](https://discord.gg/fqPF4qyjCQ)
 
-### Creator: [Edge](https://github.com/EdgeIY)
+### Creator: [SolterMix]
